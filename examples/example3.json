@@ -1,0 +1,11 @@
+{
+  "schema": {
+    "name": "Empty",
+    "type": null,
+    "immutable": null,
+    "rules": [],
+    "merges": [],
+    "constants": [],
+    "include_in_reports": "false"
+  }
+}

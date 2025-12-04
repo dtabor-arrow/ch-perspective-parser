@@ -1,0 +1,237 @@
+Perspective: tets454
+
+Group Block: owners
+
+----------------------------------------------------------------------------
+
+Group:  ankur
+
+Filter: Azure Taggable Asset
+        WHERE tag cht_owner = 'ankur'
+
+----------------------------------------------------------------------------
+
+Group:  HinaGandhi1
+
+Filter: Azure Taggable Asset
+        WHERE tag cht_owner = 'HinaGandhi1'
+
+----------------------------------------------------------------------------
+
+Group:  Maya
+
+Filter: Azure Taggable Asset
+        WHERE tag cht_owner = 'Maya'
+
+----------------------------------------------------------------------------
+
+Group:  rachita
+
+Filter: Azure Taggable Asset
+        WHERE tag cht_owner = 'rachita'
+
+----------------------------------------------------------------------------
+
+Group:  jay
+
+Filter: Azure Taggable Asset
+        WHERE tag cht_owner = 'jay'
+
+----------------------------------------------------------------------------
+
+Group:  Jim
+
+Filter: Azure Taggable Asset
+        WHERE tag cht_owner = 'Jim'
+
+----------------------------------------------------------------------------
+
+Group:  mouch
+
+Filter: Azure Taggable Asset
+        WHERE tag cht_owner = 'mouch'
+
+----------------------------------------------------------------------------
+
+Group:  sindhu
+
+Filter: Azure Taggable Asset
+        WHERE tag cht_owner = 'sindhu'
+
+----------------------------------------------------------------------------
+
+Group:  ljeri
+
+Filter: Azure Taggable Asset
+        WHERE tag cht_owner = 'ljeri'
+
+----------------------------------------------------------------------------
+
+Group:  ateev
+
+Filter: Azure Taggable Asset
+        WHERE tag cht_owner = 'ateev'
+
+----------------------------------------------------------------------------
+
+Group:  kduk
+
+Filter: Azure Taggable Asset
+        WHERE tag cht_owner = 'kduk'
+
+----------------------------------------------------------------------------
+
+Group:  abby
+
+Filter: Azure Taggable Asset
+        WHERE tag cht_owner = 'abby'
+
+----------------------------------------------------------------------------
+
+Group:  rachel
+
+Filter: Azure Taggable Asset
+        WHERE tag cht_owner = 'rachel'
+
+----------------------------------------------------------------------------
+
+Group:  Daniel
+
+Filter: Azure Taggable Asset
+        WHERE tag cht_owner = 'Daniel'
+
+----------------------------------------------------------------------------
+
+Group:  SecOps
+
+Filter: Azure Taggable Asset
+        WHERE tag cht_owner = 'SecOps'
+
+----------------------------------------------------------------------------
+
+Group:  HinaGandhi
+
+Filter: Azure Taggable Asset
+        WHERE tag cht_owner = 'HinaGandhi'
+
+----------------------------------------------------------------------------
+
+Group:  peter
+
+Filter: Azure Taggable Asset
+        WHERE tag cht_owner = 'peter'
+
+----------------------------------------------------------------------------
+
+Group:  Prime
+
+Filter: Azure Taggable Asset
+        WHERE tag cht_owner = 'Prime'
+
+----------------------------------------------------------------------------
+
+Group:  duk
+
+Filter: Azure Taggable Asset
+        WHERE tag cht_owner = 'duk'
+
+----------------------------------------------------------------------------
+
+Group:  efe
+
+Filter: Azure Taggable Asset
+        WHERE tag cht_owner = 'efe'
+
+----------------------------------------------------------------------------
+
+Group:  sindhutest1
+
+Filter: Azure Taggable Asset
+        WHERE tag cht_owner = 'sindhutest1'
+
+----------------------------------------------------------------------------
+
+Group:  Duk
+
+Filter: Azure Taggable Asset
+        WHERE tag cht_owner = 'Duk'
+
+----------------------------------------------------------------------------
+
+Group:  maya
+
+Filter: Azure Taggable Asset
+        WHERE tag cht_owner = 'maya'
+
+----------------------------------------------------------------------------
+
+Group:  shipsticks
+
+Filter: Azure Taggable Asset
+        WHERE tag cht_owner = 'shipsticks'
+
+----------------------------------------------------------------------------
+
+Group:  Peter
+
+Filter: Azure Taggable Asset
+        WHERE tag cht_owner = 'Peter'
+
+----------------------------------------------------------------------------
+
+Group:  Ernie
+
+Filter: Azure Taggable Asset
+        WHERE tag cht_owner = 'Ernie'
+
+----------------------------------------------------------------------------
+
+Group:  RyanP
+
+Filter: Azure Taggable Asset
+        WHERE tag cht_owner = 'RyanP'
+
+----------------------------------------------------------------------------
+
+Group:  alice
+
+Filter: Azure Taggable Asset
+        WHERE tag cht_owner = 'alice'
+
+----------------------------------------------------------------------------
+
+Group:  sparta
+
+Filter: Azure Taggable Asset
+        WHERE tag cht_owner = 'sparta'
+
+----------------------------------------------------------------------------
+
+Group:  jarvis
+
+Filter: Azure Taggable Asset
+        WHERE tag cht_owner = 'jarvis'
+
+----------------------------------------------------------------------------
+
+Group:  akshay
+
+Filter: Azure Taggable Asset
+        WHERE tag cht_owner = 'akshay'
+
+----------------------------------------------------------------------------
+
+Group:  fkarimeddini
+
+Filter: Azure Taggable Asset
+        WHERE tag cht_owner = 'fkarimeddini'
+
+Static Groups:
+
+----------------------------------------------------------------------------
+
+Group:  Other
+
+Note: Catches all assets not matched by other groups
+
+Done
