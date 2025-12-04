@@ -1,0 +1,85 @@
+{
+  "schema": {
+    "name": "Test - Dean",
+    "type": null,
+    "immutable": null,
+    "rules": [
+      {
+        "type": "categorize",
+        "asset": "AwsAccount",
+        "ref_id": "13950053777500",
+        "name": "AWS Accounts",
+        "tag_field": [
+          "ch_payeraccount"
+        ]
+      }
+    ],
+    "merges": [
+      {
+        "type": "Group",
+        "to": "13950053788056",
+        "from": [
+          "13950053788059"
+        ]
+      }
+    ],
+    "constants": [
+      {
+        "type": "Dynamic Group Block",
+        "list": [
+          {
+            "ref_id": "13950053777500",
+            "name": "AWS Accounts"
+          }
+        ]
+      },
+      {
+        "type": "Dynamic Group",
+        "list": [
+          {
+            "ref_id": "13950053788055",
+            "name": "CloudHealth Dev",
+            "val": "CloudHealth Dev",
+            "blk_id": "13950053777500"
+          },
+          {
+            "ref_id": "13950053788056",
+            "name": "CloudHealth Management",
+            "val": "CloudHealth Management",
+            "blk_id": "13950053777500"
+          },
+          {
+            "ref_id": "13950053788057",
+            "name": "CloudHealth Preprod",
+            "val": "CloudHealth Preprod",
+            "blk_id": "13950053777500"
+          },
+          {
+            "ref_id": "13950053788058",
+            "name": "CloudHealth Prod",
+            "val": "CloudHealth Prod",
+            "blk_id": "13950053777500"
+          },
+          {
+            "ref_id": "13950053788059",
+            "name": "CloudHealth Targets",
+            "val": "CloudHealth Targets",
+            "blk_id": "13950053777500",
+            "fwd_to": "13950053788056"
+          }
+        ]
+      },
+      {
+        "type": "Static Group",
+        "list": [
+          {
+            "ref_id": "13950053788054",
+            "name": "Other",
+            "is_other": "true"
+          }
+        ]
+      }
+    ],
+    "include_in_reports": "false"
+  }
+}
