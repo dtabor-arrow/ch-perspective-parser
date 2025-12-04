@@ -1,0 +1,726 @@
+Perspective: Business Unit Combined
+
+Group Block: Azure RG BU Tag
+
+----------------------------------------------------------------------------
+
+Group:  MACC_PURCHASE
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'MACC_PURCHASE'
+
+----------------------------------------------------------------------------
+
+Group:  Events Team
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Events Team'
+
+----------------------------------------------------------------------------
+
+Group:  GDMS
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'GDMS'
+
+----------------------------------------------------------------------------
+
+Group:  Richardson RFPD-10A-199
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Richardson RFPD-10A-199'
+
+----------------------------------------------------------------------------
+
+Group:  GES-7246
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'GES7246'
+
+----------------------------------------------------------------------------
+
+Group:  Transportation Finance
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Transportation Finance'
+
+----------------------------------------------------------------------------
+
+Group:  Global Components (Multi)
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Global Components (Multi)'
+
+----------------------------------------------------------------------------
+
+Group:  GES-7230
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'GES7230'
+        OR tag Business Unit = '7240'
+
+----------------------------------------------------------------------------
+
+Group:  GCADW
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'GCADW'
+
+----------------------------------------------------------------------------
+
+Group:  ECS-7227
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'ECS-7227'
+
+----------------------------------------------------------------------------
+
+Group:  Corporate Finance
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Corporate Finance'
+
+----------------------------------------------------------------------------
+
+Group:  ECS_SparkySphere
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'ECS_SparkySphere'
+
+----------------------------------------------------------------------------
+
+Group:  ECS (EMEA)
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'ECS (EMEA)'
+
+----------------------------------------------------------------------------
+
+Group:  JB
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'JB'
+
+----------------------------------------------------------------------------
+
+Group:  NetSec
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'NetSec'
+
+----------------------------------------------------------------------------
+
+Group:  AIS-7224
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'AIS7224'
+
+----------------------------------------------------------------------------
+
+Group:  ECS Automation-7284
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'ECS Automation-7284'
+        OR tag Business Unit = 'ECS Automation'
+
+----------------------------------------------------------------------------
+
+Group:  RFPD
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'RFPD'
+
+----------------------------------------------------------------------------
+
+Group:  GES-7238
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'GES7238'
+
+----------------------------------------------------------------------------
+
+Group:  SSC
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'SSC'
+
+----------------------------------------------------------------------------
+
+Group:  ECS Australia
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'ECS Australia'
+
+----------------------------------------------------------------------------
+
+Group:  ECS (NAO)-7296
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'ECS (NAO)-7296'
+        OR tag Business Unit = 'ECS (NAO)'
+        OR tag Business Unit = 'ECS (NAO) - 7296'
+
+----------------------------------------------------------------------------
+
+Group:  AP_GBIR
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'AP_GBIR'
+
+----------------------------------------------------------------------------
+
+Group:  GES-7254
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'GES7254'
+
+----------------------------------------------------------------------------
+
+Group:  eInfochips
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'eInfochips'
+        OR tag Business Unit = 'einfochips'
+        OR tag Business Unit = 'Einfochips'
+
+----------------------------------------------------------------------------
+
+Group:  Global Enterprise Services-DTE
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Global Enterprise Services-DTE'
+
+----------------------------------------------------------------------------
+
+Group:  Business Programs and Operations
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Business Programs and Operations'
+
+----------------------------------------------------------------------------
+
+Group:  BTO Services EMEA
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'BTO Services EMEA'
+
+----------------------------------------------------------------------------
+
+Group:  Shared Subscription non-Production
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Shared Subscription non-Production'
+
+----------------------------------------------------------------------------
+
+Group:  Logistics NA
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Logistics NA'
+
+----------------------------------------------------------------------------
+
+Group:  Multi
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Multi'
+
+----------------------------------------------------------------------------
+
+Group:  Sparky Marketing
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Sparky Marketing'
+
+----------------------------------------------------------------------------
+
+Group:  GES7262
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'GES7262'
+
+----------------------------------------------------------------------------
+
+Group:  PES - Digital
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'PES - Digital'
+
+----------------------------------------------------------------------------
+
+Group:  ECS Marketing
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'ECS Marketing'
+
+----------------------------------------------------------------------------
+
+Group:  Global Components (NAO)
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Global Components (NAO)'
+
+----------------------------------------------------------------------------
+
+Group:  Seneca (AIS)
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Seneca (AIS)'
+
+----------------------------------------------------------------------------
+
+Group:  Converge
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Converge'
+
+----------------------------------------------------------------------------
+
+Group:  Express Route Network
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Express Route Network'
+
+----------------------------------------------------------------------------
+
+Group:  Immix Group
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Immix Group'
+
+----------------------------------------------------------------------------
+
+Group:  AspenCore
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'AspenCore'
+
+----------------------------------------------------------------------------
+
+Group:  GES-7247
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'GES7247'
+
+----------------------------------------------------------------------------
+
+Group:  AspenCoreAsia
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'AspenCoreAsia'
+
+----------------------------------------------------------------------------
+
+Group:  Global Components
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Global Components'
+
+----------------------------------------------------------------------------
+
+Group:  SiliconExpert
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'SiliconExpert'
+        OR tag Business Unit = 'Silicon Experts'
+
+----------------------------------------------------------------------------
+
+Group:  GES-7227
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'GES7227'
+        OR tag Business Unit = 'vmstop automation'
+
+----------------------------------------------------------------------------
+
+Group:  S-Tech
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'S-Tech'
+
+----------------------------------------------------------------------------
+
+Group:  Global Strategy
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Global Strategy'
+        OR tag Business Unit = 'Gobal Strategy'
+
+----------------------------------------------------------------------------
+
+Group:  Treasury
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Treasury'
+
+----------------------------------------------------------------------------
+
+Group:  GC B2B
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'GC B2B'
+
+----------------------------------------------------------------------------
+
+Group:  Sparky Brand Management
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Sparky Brand Management'
+
+----------------------------------------------------------------------------
+
+Group:  rftghdetfwr
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'rftghdetfwr'
+
+----------------------------------------------------------------------------
+
+Group:  test
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'test'
+
+----------------------------------------------------------------------------
+
+Group:  ITSM
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'ITSM'
+
+----------------------------------------------------------------------------
+
+Group:  Sparky Studio-7815
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Sparky Studio-7815'
+        OR tag Business Unit = 'Sparky Studio'
+
+----------------------------------------------------------------------------
+
+Group:  Dev
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Dev'
+
+----------------------------------------------------------------------------
+
+Group:  Transim
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Transim'
+
+----------------------------------------------------------------------------
+
+Group:  Sparky IT Security-7245
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Sparky IT Security-7245'
+        OR tag Business Unit = 'Sparky SOC'
+        OR tag Business Unit = 'Sparky IT Security'
+
+----------------------------------------------------------------------------
+
+Group:  AIS SW Engineering-4206
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'AIS SW Engineering-4206'
+        OR tag Business Unit = 'AIS SW Engineering'
+
+----------------------------------------------------------------------------
+
+Group:  Microsoft Blockchain-7905
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Microsoft Blockchain-7905'
+        OR tag Business Unit = 'Microsoft Blockchain'
+
+----------------------------------------------------------------------------
+
+Group:  GBS Accounts Payable-7046
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'GBSAccountspayable-7046'
+        OR tag Business Unit = 'GBSAccountspayable'
+
+----------------------------------------------------------------------------
+
+Group:  Sparky IT-7232
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Sparky IT-7232'
+        OR tag Business Unit = 'Sparky IT'
+
+----------------------------------------------------------------------------
+
+Group:  Sparky Global Services-7200
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Sparky Global Services-7200'
+        OR tag Business Unit = 'Sparky Global Services'
+
+----------------------------------------------------------------------------
+
+Group:  ECS_Palo-4007
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'ECS_Palo-4007'
+        OR tag Business Unit = 'ECS_Palo'
+
+----------------------------------------------------------------------------
+
+Group:  Digital (All)-7356
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Digital (All)-7356'
+        OR tag Business Unit = 'Digital (All)'
+
+----------------------------------------------------------------------------
+
+Group:  APAC_Finance-7029
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'APAC_Finance-7029'
+        OR tag Business Unit = 'APAC_Finance'
+
+----------------------------------------------------------------------------
+
+Group:  NAC Global Business Process-7400
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'NAC_Global_Business_Process-7400'
+        OR tag Business Unit = 'NAC_Global_Business_Process'
+
+----------------------------------------------------------------------------
+
+Group:  SQA-7216
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'SQA-7216'
+
+----------------------------------------------------------------------------
+
+Group:  DSG
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'DSG'
+
+----------------------------------------------------------------------------
+
+Group:  Sparky Intelligent Solutions-7200
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Sparky Intelligent Solutions-7200'
+
+----------------------------------------------------------------------------
+
+Group:  APD-5292
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'APD-5292'
+        OR tag Business Unit = 'APD'
+
+----------------------------------------------------------------------------
+
+Group:  SparkyGPT-7208
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'SparkyGPT-7208'
+        OR tag Business Unit = 'SparkyGPT'
+
+----------------------------------------------------------------------------
+
+Group:  GC-7295
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'GC7295'
+
+----------------------------------------------------------------------------
+
+Group:  Global Components (NAO)-7284
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Global Components (NAO)-7284'
+
+----------------------------------------------------------------------------
+
+Group:  Seneca (AIS)-7200
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Seneca (AIS)-7200'
+
+----------------------------------------------------------------------------
+
+Group:  Need to update
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Need to update'
+
+----------------------------------------------------------------------------
+
+Group:  Sparky Marketing-7806
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Sparky Marketing-7806'
+
+----------------------------------------------------------------------------
+
+Group:  Treasury-7013
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Treasury-7013'
+
+----------------------------------------------------------------------------
+
+Group:  Global Components7284
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Global Components7284'
+
+----------------------------------------------------------------------------
+
+Group:  Global Components-7284
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Global Components-7284'
+
+----------------------------------------------------------------------------
+
+Group:  Transportation Finance-7536
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Transportation Finance-7536'
+
+----------------------------------------------------------------------------
+
+Group:  Global Enterprise Services-7234
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Global Enterprise Services-7234'
+
+----------------------------------------------------------------------------
+
+Group:  S-Tech-7224
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'S-Tech-7224'
+
+----------------------------------------------------------------------------
+
+Group:  ECS Marketing-5500
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'ECS Marketing-5500'
+
+----------------------------------------------------------------------------
+
+Group:  ITSM-7272
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'ITSM-7272'
+
+----------------------------------------------------------------------------
+
+Group:  NetSec-7227
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'NetSec-7227'
+
+----------------------------------------------------------------------------
+
+Group:  Events Team-7806
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Events Team-7806'
+
+----------------------------------------------------------------------------
+
+Group:  Corporate Finance-7080
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Corporate Finance-7080'
+
+Static Groups:
+
+----------------------------------------------------------------------------
+
+Group:  Transim
+
+Filter: Azure Subscription
+        WHERE Subscription Name = 'Transim-VirtualDataCenter'
+
+Filter: Azure Resource Group
+        WHERE Resource Group Name CONTAINS 'Transim'
+        OR Resource Group Name CONTAINS 'TRANSIM'
+
+----------------------------------------------------------------------------
+
+Group:  Shared Services
+
+Filter: Azure Resource Group
+        WHERE tag Business Unit = 'Sparky Electronics'
+
+Filter: Azure Subscription
+        WHERE Subscription Name = 'Sparky_exf_core_uw1_exr01'
+        OR Subscription Name = 'Enterprise Dev/Test JB'
+        OR Subscription Name = 'ICS_AZURE_INTERNET_ECOMMERCE_A00287'
+
+Filter: Azure Taggable Asset
+        WHERE tag Business Unit = 'Sparky Electronics'
+
+Filter: Aws Account
+        WHERE Amazon Name = 'Audit'
+        OR Amazon Name = 'Sparky-GES'
+        OR Amazon Name = 'Log Archive'
+        OR Amazon Name = 'Sparky'
+        OR Amazon Name = 'Sparky-Shared-Services'
+
+----------------------------------------------------------------------------
+
+Group:  Marketplace
+
+        EMPTY GROUP
+
+----------------------------------------------------------------------------
+
+Group:  ECS-7296
+
+Filter: Aws Account
+        WHERE tag Business Unit = 'ECS-7296'
+
+----------------------------------------------------------------------------
+
+Group:  Elektroda
+
+Filter: Aws Account
+        WHERE tag Business Unit = 'Elektroda'
+
+----------------------------------------------------------------------------
+
+Group:  SE Databricks
+
+Filter: Aws Account
+        WHERE tag Business Unit = 'SE-databricks'
+
+----------------------------------------------------------------------------
+
+Group:  Sparky
+
+Filter: Aws Account
+        WHERE tag Business Unit = 'Sparky'
+
+----------------------------------------------------------------------------
+
+Group:  Sparky ATG
+
+Filter: Aws Account
+        WHERE tag Business Unit = 'Sparky-atg'
+
+----------------------------------------------------------------------------
+
+Group:  Other
+
+Note: Catches all assets not matched by other groups
+
+Done
