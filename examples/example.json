@@ -1,0 +1,238 @@
+{
+  "schema": {
+    "name": "tets454",
+    "type": null,
+    "immutable": null,
+    "rules": [
+      {
+        "type": "categorize",
+        "asset": "AzureTaggableAsset",
+        "ref_id": "13950053777487",
+        "name": "owners",
+        "tag_field": [
+          "cht_owner"
+        ]
+      }
+    ],
+    "merges": [],
+    "constants": [
+      {
+        "type": "Dynamic Group Block",
+        "list": [
+          {
+            "ref_id": "13950053777487",
+            "name": "owners"
+          }
+        ]
+      },
+      {
+        "type": "Dynamic Group",
+        "list": [
+          {
+            "ref_id": "13950053786067",
+            "name": "ankur",
+            "val": "ankur",
+            "blk_id": "13950053777487"
+          },
+          {
+            "ref_id": "13950053786068",
+            "name": "HinaGandhi1",
+            "val": "HinaGandhi1",
+            "blk_id": "13950053777487"
+          },
+          {
+            "ref_id": "13950053786069",
+            "name": "Maya",
+            "val": "Maya",
+            "blk_id": "13950053777487"
+          },
+          {
+            "ref_id": "13950053786070",
+            "name": "rachita",
+            "val": "rachita",
+            "blk_id": "13950053777487"
+          },
+          {
+            "ref_id": "13950053786071",
+            "name": "jay",
+            "val": "jay",
+            "blk_id": "13950053777487"
+          },
+          {
+            "ref_id": "13950053786072",
+            "name": "Jim",
+            "val": "Jim",
+            "blk_id": "13950053777487"
+          },
+          {
+            "ref_id": "13950053786073",
+            "name": "mouch",
+            "val": "mouch",
+            "blk_id": "13950053777487"
+          },
+          {
+            "ref_id": "13950053786074",
+            "name": "sindhu",
+            "val": "sindhu",
+            "blk_id": "13950053777487"
+          },
+          {
+            "ref_id": "13950053786075",
+            "name": "ljeri",
+            "val": "ljeri",
+            "blk_id": "13950053777487"
+          },
+          {
+            "ref_id": "13950053786076",
+            "name": "ateev",
+            "val": "ateev",
+            "blk_id": "13950053777487"
+          },
+          {
+            "ref_id": "13950053786077",
+            "name": "kduk",
+            "val": "kduk",
+            "blk_id": "13950053777487"
+          },
+          {
+            "ref_id": "13950053786078",
+            "name": "abby",
+            "val": "abby",
+            "blk_id": "13950053777487"
+          },
+          {
+            "ref_id": "13950053786079",
+            "name": "rachel",
+            "val": "rachel",
+            "blk_id": "13950053777487"
+          },
+          {
+            "ref_id": "13950053786080",
+            "name": "Daniel",
+            "val": "Daniel",
+            "blk_id": "13950053777487"
+          },
+          {
+            "ref_id": "13950053786081",
+            "name": "SecOps",
+            "val": "SecOps",
+            "blk_id": "13950053777487"
+          },
+          {
+            "ref_id": "13950053786082",
+            "name": "HinaGandhi",
+            "val": "HinaGandhi",
+            "blk_id": "13950053777487"
+          },
+          {
+            "ref_id": "13950053786083",
+            "name": "peter",
+            "val": "peter",
+            "blk_id": "13950053777487"
+          },
+          {
+            "ref_id": "13950053786084",
+            "name": "Prime",
+            "val": "Prime",
+            "blk_id": "13950053777487"
+          },
+          {
+            "ref_id": "13950053786085",
+            "name": "duk",
+            "val": "duk",
+            "blk_id": "13950053777487"
+          },
+          {
+            "ref_id": "13950053786086",
+            "name": "efe",
+            "val": "efe",
+            "blk_id": "13950053777487"
+          },
+          {
+            "ref_id": "13950053786087",
+            "name": "sindhutest1",
+            "val": "sindhutest1",
+            "blk_id": "13950053777487"
+          },
+          {
+            "ref_id": "13950053786088",
+            "name": "Duk",
+            "val": "Duk",
+            "blk_id": "13950053777487"
+          },
+          {
+            "ref_id": "13950053786089",
+            "name": "maya",
+            "val": "maya",
+            "blk_id": "13950053777487"
+          },
+          {
+            "ref_id": "13950053786090",
+            "name": "shipsticks",
+            "val": "shipsticks",
+            "blk_id": "13950053777487"
+          },
+          {
+            "ref_id": "13950053786091",
+            "name": "Peter",
+            "val": "Peter",
+            "blk_id": "13950053777487"
+          },
+          {
+            "ref_id": "13950053786092",
+            "name": "Ernie",
+            "val": "Ernie",
+            "blk_id": "13950053777487"
+          },
+          {
+            "ref_id": "13950053786093",
+            "name": "RyanP",
+            "val": "RyanP",
+            "blk_id": "13950053777487"
+          },
+          {
+            "ref_id": "13950053786094",
+            "name": "alice",
+            "val": "alice",
+            "blk_id": "13950053777487"
+          },
+          {
+            "ref_id": "13950053786095",
+            "name": "sparta",
+            "val": "sparta",
+            "blk_id": "13950053777487"
+          },
+          {
+            "ref_id": "13950053786096",
+            "name": "jarvis",
+            "val": "jarvis",
+            "blk_id": "13950053777487"
+          },
+          {
+            "ref_id": "13950053786097",
+            "name": "akshay",
+            "val": "akshay",
+            "blk_id": "13950053777487"
+          },
+          {
+            "ref_id": "13950053786098",
+            "name": "fkarimeddini",
+            "val": "fkarimeddini",
+            "blk_id": "13950053777487"
+          }
+        ]
+      },
+      {
+        "type": "Static Group",
+        "list": [
+          {
+            "ref_id": "13950053786066",
+            "name": "Other",
+            "is_other": "true"
+          }
+        ]
+      }
+    ],
+    "include_in_reports": "false"
+  }
+}
