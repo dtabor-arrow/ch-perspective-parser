@@ -1,4 +1,5 @@
 # CloudHealth Perspective Parser
+[![AI Assisted](https://img.shields.io/badge/AI-Claude%20Code-AAAAAA.svg)](https://claude.ai/code)
 
 Converts CloudHealth Perspective schema JSON files into human-readable SQL-like output.
 
